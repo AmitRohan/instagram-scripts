@@ -12,7 +12,7 @@ nextOne = document.getElementsByClassName('coreSpriteRightPaginationArrow')[0];
                 _.parentElement.click();
 
                 picturesLiked++;
-                console.like("I have liked ",picturesLiked," pictures");
+                console.log("I have liked ",picturesLiked," pictures");
                 setTimeout(()=>{
                     nextOne.click();
                     setTimeout(()=>{
