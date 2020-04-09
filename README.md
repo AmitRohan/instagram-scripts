@@ -1,6 +1,11 @@
 # instagram-scripts
-Contains a list of scripts that can be run in browser to automate simple tasks on instagram.
+Contains a list of scripts that can be run in browser to automate few of the complex tasks on instagram.
 
 # contents
-1. autoLiker : Re-Like the photos of your loved once.
-2. imageSlideShow.js : See a slide show of all the pictures of your loved once.
+1. imageSlideShow.js : See a slide show of your pictures.
+
+2. autoDisliker : Removes your likes from all the pictures.
+
+3. autoLiker : Re-Like all of your photos.
+
+4. chainAndDownload : Checks all your images and makes a list of those that can be downloaded and then propmts for starting download.
